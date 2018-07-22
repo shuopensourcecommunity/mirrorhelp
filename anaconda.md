@@ -15,7 +15,7 @@ Anaconda 安装包可以在 https://mirrors.shu.edu.cn/anaconda/archive/ 下载�
 添加SHUOSC仓库镜像：
 
     conda config --add channels https://mirrors.shu.edu.cn/anaconda/pkgs/free/
-    conda config --set show_channel_urls yes
+    conda config --show-sources
 
 ###  相关链接 
 
